@@ -17,7 +17,7 @@ title: Progmatic | by Aman Singh
 email: aman_singh[at]students[dot]iitmandi[dot]ac[dot]in
 description: > # this means to ignore newlines until "baseurl:"
   A programming blog about some tips and experiences ranging from Competitive Programming to Development
-baseurl: "amanwrites.me" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://amanwrites.me" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: amansinghseo	
 github_username:  aman935
