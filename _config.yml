@@ -1,20 +1,18 @@
-title: John Smith
-description: My Personal Blog
-author: John Smith
+title: Progmatic | by Aman Singh 
+email: aman_singh[at]students[dot]iitmandi[dot]ac[dot]in
+description: > # this means to ignore newlines until "baseurl:"
+  A programming blog about some tips and experiences ranging from Competitive Programming to Development
+  
+author: Aman Singh
 logo: /static/img/avatar.png
-github: https://github.com/ashutosh2k12
-about: Freelance developer
-
-baseurl: ""
-url: "https://codeasashu.github.io/hcz-jekyll-blog"
-
+github: https://github.com/aman935
+about: Rookie Coder and Learner
 disqus_shortname: aboutashu
-google_analytics: UA-72862926-1
 
-share:
-  twitter_username: \#
-  fb_appid: 000000000000
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://amanwrites.me" # the base hostname & protocol for your site, e.g. http://example.com
 
+github_username:  aman935
 
 enableTags: true
 tagarray: []
@@ -24,3 +22,17 @@ per_page: 20
 paginate_path: "/page:num/"
 markdown: kramdown
 gems: [jekyll-paginate, jekyll-gist]
+
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+
+#google_analytics: UA-72862926-1
+
+share:
+  twitter_username: amansinghseo
+  fb_appid: amansinghseo
+
