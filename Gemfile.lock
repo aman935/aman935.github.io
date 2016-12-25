@@ -193,7 +193,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages (= 111)
-
   jekyll
   jekyll-feed (~> 0.6)
   jekyll-gist
