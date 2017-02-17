@@ -4,10 +4,10 @@
     <title>Progmatic | by Aman Singh</title>
     <description>A programming blog about some tips and experiences ranging from Competitive Programming to Development
 </description>
-    <link>http://amanwrites.me/</link>
-    <atom:link href="http://amanwrites.me/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 17 Feb 2017 22:36:11 +0530</pubDate>
-    <lastBuildDate>Fri, 17 Feb 2017 22:36:11 +0530</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 17 Feb 2017 22:38:55 +0530</pubDate>
+    <lastBuildDate>Fri, 17 Feb 2017 22:38:55 +0530</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -35,18 +35,18 @@
   &lt;li&gt;Check if crontab is installed by executing :
 &lt;code class=&quot;highlighter-rouge&quot;&gt;crontab -e&lt;/code&gt; &lt;br /&gt;
 If cron is installed. This will create a new crontab file and open it with an code.&lt;/li&gt;
-  &lt;li&gt;You can add your command there after specifying the time and date of execution or the frequency of its execution.
-    &lt;blockquote&gt;
-      &lt;p&gt;For more info on how to write a crontab file [write crontab file][https://corenominal.org/2016/05/12/howto-setup-a-crontab-file/ “Writing crontab file”].&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
+  &lt;li&gt;You can add your command there after specifying the time and date of execution or the frequency of its execution.&lt;/li&gt;
 &lt;/ol&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;For more info on how to write a crontab file &lt;a href=&quot;https://corenominal.org/2016/05/12/howto-setup-a-crontab-file/&quot; title=&quot;Writing crontab file&quot;&gt;write crontab file&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;Hope, you also find crontab extremely useful, like me ;)&lt;/p&gt;
 </description>
         <pubDate>Fri, 17 Feb 2017 00:00:00 +0530</pubDate>
-        <link>http://amanwrites.me/scripts/2017/02/17/That-Awesome-Crontab.html</link>
-        <guid isPermaLink="true">http://amanwrites.me/scripts/2017/02/17/That-Awesome-Crontab.html</guid>
+        <link>http://localhost:4000/scripts/2017/02/17/That-Awesome-Crontab.html</link>
+        <guid isPermaLink="true">http://localhost:4000/scripts/2017/02/17/That-Awesome-Crontab.html</guid>
         
         
         <category>scripts</category>
