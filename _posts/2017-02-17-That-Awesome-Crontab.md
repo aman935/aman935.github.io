@@ -3,7 +3,7 @@ layout: post
 title: Crontab the beast
 categories: scripts									
 ---
-#An introduction to Cron
+# An introduction to Cron
 
 Recently, while creating a cas login program in python, I found crontab. And it was one of the most amazing things that i encountered in linux.
 
@@ -13,10 +13,10 @@ So, those who don't know:
 
 With cron, you can schedule maintenance jobs, download the new episode of your favorite TV series and what not!
 
-#Installation:
+# Installation:
 It comes automatically in Ubuntu,Fedora and countless linux distros. But, you can also install it from [here](http://www.unixgeeks.org/security/newbie/unix/cron-1.html "Install cron"). 
 
-#Using it:
+# Using it:
 cron works with crontab files that contains information about the command to be run and the frequency of that command to be executed. 
 
 So, here's how you create a new job:
