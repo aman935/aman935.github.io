@@ -4,10 +4,10 @@
     <title>Progmatic | by Aman Singh</title>
     <description>A programming blog about some tips and experiences ranging from Competitive Programming to Development
 </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/sitemap.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 17 Feb 2017 22:23:34 +0530</pubDate>
-    <lastBuildDate>Fri, 17 Feb 2017 22:23:34 +0530</lastBuildDate>
+    <link>http://amanwrites.me/</link>
+    <atom:link href="http://amanwrites.me/sitemap.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 17 Feb 2017 22:28:32 +0530</pubDate>
+    <lastBuildDate>Fri, 17 Feb 2017 22:28:32 +0530</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -45,8 +45,8 @@ If cron is installed. This will create a new crontab file and open it with an co
 &lt;p&gt;Hope, you also find crontab extremely useful, like me ;)&lt;/p&gt;
 </description>
         <pubDate>Fri, 17 Feb 2017 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/scripts/2017/02/17/That-Awesome-Crontab.html</link>
-        <guid isPermaLink="true">http://localhost:4000/scripts/2017/02/17/That-Awesome-Crontab.html</guid>
+        <link>http://amanwrites.me/scripts/2017/02/17/That-Awesome-Crontab.html</link>
+        <guid isPermaLink="true">http://amanwrites.me/scripts/2017/02/17/That-Awesome-Crontab.html</guid>
         
         
         <category>scripts</category>
