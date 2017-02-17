@@ -4,15 +4,15 @@
     <title>Progmatic | by Aman Singh</title>
     <description>A programming blog about some tips and experiences ranging from Competitive Programming to Development
 </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 17 Feb 2017 22:30:24 +0530</pubDate>
-    <lastBuildDate>Fri, 17 Feb 2017 22:30:24 +0530</lastBuildDate>
+    <link>http://amanwrites.me/</link>
+    <atom:link href="http://amanwrites.me/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 17 Feb 2017 22:36:11 +0530</pubDate>
+    <lastBuildDate>Fri, 17 Feb 2017 22:36:11 +0530</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
         <title>Crontab the beast</title>
-        <description>&lt;p&gt;#An introduction to Cron&lt;/p&gt;
+        <description>&lt;h1 id=&quot;an-introduction-to-cron&quot;&gt;An introduction to Cron&lt;/h1&gt;
 
 &lt;p&gt;Recently, while creating a cas login program in python, I found crontab. And it was one of the most amazing things that i encountered in linux.&lt;/p&gt;
 
@@ -24,11 +24,11 @@
 
 &lt;p&gt;With cron, you can schedule maintenance jobs, download the new episode of your favorite TV series and what not!&lt;/p&gt;
 
-&lt;p&gt;#Installation:
-It comes automatically in Ubuntu,Fedora and countless linux distros. But, you can also install it from &lt;a href=&quot;http://www.unixgeeks.org/security/newbie/unix/cron-1.html&quot; title=&quot;Install cron&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h1 id=&quot;installation&quot;&gt;Installation:&lt;/h1&gt;
+&lt;p&gt;It comes automatically in Ubuntu,Fedora and countless linux distros. But, you can also install it from &lt;a href=&quot;http://www.unixgeeks.org/security/newbie/unix/cron-1.html&quot; title=&quot;Install cron&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;#Using it:
-cron works with crontab files that contains information about the command to be run and the frequency of that command to be executed.&lt;/p&gt;
+&lt;h1 id=&quot;using-it&quot;&gt;Using it:&lt;/h1&gt;
+&lt;p&gt;cron works with crontab files that contains information about the command to be run and the frequency of that command to be executed.&lt;/p&gt;
 
 &lt;p&gt;So, here’s how you create a new job:&lt;/p&gt;
 &lt;ol&gt;
@@ -45,8 +45,8 @@ If cron is installed. This will create a new crontab file and open it with an co
 &lt;p&gt;Hope, you also find crontab extremely useful, like me ;)&lt;/p&gt;
 </description>
         <pubDate>Fri, 17 Feb 2017 00:00:00 +0530</pubDate>
-        <link>http://localhost:4000/scripts/2017/02/17/That-Awesome-Crontab.html</link>
-        <guid isPermaLink="true">http://localhost:4000/scripts/2017/02/17/That-Awesome-Crontab.html</guid>
+        <link>http://amanwrites.me/scripts/2017/02/17/That-Awesome-Crontab.html</link>
+        <guid isPermaLink="true">http://amanwrites.me/scripts/2017/02/17/That-Awesome-Crontab.html</guid>
         
         
         <category>scripts</category>
