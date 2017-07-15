@@ -4,11 +4,11 @@
     <title>Progmatic | by Aman Singh</title>
     <description>A programming blog about some tips and experiences ranging from Competitive Programming to Development
 </description>
-    <link>http://amanwrites.me/</link>
-    <atom:link href="http://amanwrites.me/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 19 Feb 2017 10:38:00 +0530</pubDate>
-    <lastBuildDate>Sun, 19 Feb 2017 10:38:00 +0530</lastBuildDate>
-    <generator>Jekyll v3.3.1</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 14 Jul 2017 17:19:28 -0400</pubDate>
+    <lastBuildDate>Fri, 14 Jul 2017 17:19:28 -0400</lastBuildDate>
+    <generator>Jekyll v3.4.5</generator>
     
       <item>
         <title>Crontab the beast</title>
@@ -44,12 +44,39 @@ If cron is installed. This will create a new crontab file and open it with an co
 
 &lt;p&gt;Hope, you also find crontab extremely useful, like me ;)&lt;/p&gt;
 </description>
-        <pubDate>Fri, 17 Feb 2017 00:00:00 +0530</pubDate>
-        <link>http://amanwrites.me/scripts/2017/02/17/That-Awesome-Crontab.html</link>
-        <guid isPermaLink="true">http://amanwrites.me/scripts/2017/02/17/That-Awesome-Crontab.html</guid>
+        <pubDate>Fri, 17 Feb 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/scripts/2017/02/17/That-Awesome-Crontab.html</link>
+        <guid isPermaLink="true">http://localhost:4000/scripts/2017/02/17/That-Awesome-Crontab.html</guid>
         
         
         <category>scripts</category>
+        
+      </item>
+    
+      <item>
+        <title>Preserve files from previous distro during manual upgrade</title>
+        <description>&lt;h1 id=&quot;on-the-brink-of-losing-data-from-corrupted-installation&quot;&gt;On the brink of losing data from corrupted installation&lt;/h1&gt;
+
+&lt;p&gt;Have you any update where your linux machine stopped working? Have you messed up that recent manual upgrade that you were trying to do? Well, I have, many times. And each and every time, I ended losing data or spent hours trying to recover it.&lt;/p&gt;
+
+&lt;p&gt;Well, this time, while I was recovering from a messed up update. I noticed that while installing Fedora again, I was asked to choose partitions. And their mount points. I didn’t know anything about mount points, so I opted for the option where fedora fills them itself.&lt;/p&gt;
+
+&lt;p&gt;Well, It was a straight-forward thing. The mount point for root was ‘/’. For home directory, it was /home. Also, the previous Fedora (25) still was available as a mount point. But choosing the partition meant that that LVM will be formatted. So, I chose the mount points from previous fedora by labelling them as root and EFI.&lt;/p&gt;
+
+&lt;p&gt;But, here’s the trick. I entered some other folder /older for the home directory from previous installation from Fedora and chose to create a new LVM for the home directory of new Fedora installation.&lt;/p&gt;
+
+&lt;h1 id=&quot;the-magic&quot;&gt;The Magic!&lt;/h1&gt;
+
+&lt;p&gt;After the installation, when the system booted. Voila! I had that sweet home directory from the previous installation still available as a simple directory. All that was needed now was :&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;   chmod -R +777 /older_directory&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;That’s it. My home directory from previous partition. All the data, configuration files and settings intact. This also saved me a lot of time from configuring different applications again.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 17 Feb 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2017/02/17/Preserve-files-previous-distro-fedora.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/02/17/Preserve-files-previous-distro-fedora.html</guid>
+        
         
       </item>
     
