@@ -6,8 +6,8 @@
 </description>
     <link>http://amanwrites.me/</link>
     <atom:link href="http://amanwrites.me/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 14 Jul 2017 22:05:18 -0400</pubDate>
-    <lastBuildDate>Fri, 14 Jul 2017 22:05:18 -0400</lastBuildDate>
+    <pubDate>Fri, 28 Jul 2017 02:33:01 +0530</pubDate>
+    <lastBuildDate>Fri, 28 Jul 2017 02:33:01 +0530</lastBuildDate>
     <generator>Jekyll v3.4.5</generator>
     
       <item>
@@ -44,7 +44,7 @@ If cron is installed. This will create a new crontab file and open it with an co
 
 &lt;p&gt;Hope, you also find crontab extremely useful, like me ;)&lt;/p&gt;
 </description>
-        <pubDate>Fri, 17 Feb 2017 00:00:00 -0500</pubDate>
+        <pubDate>Fri, 17 Feb 2017 00:00:00 +0530</pubDate>
         <link>http://amanwrites.me/scripts/2017/02/17/That-Awesome-Crontab.html</link>
         <guid isPermaLink="true">http://amanwrites.me/scripts/2017/02/17/That-Awesome-Crontab.html</guid>
         
@@ -73,7 +73,7 @@ If cron is installed. This will create a new crontab file and open it with an co
 
 &lt;p&gt;That’s it. My home directory from previous partition. All the data, configuration files and settings intact. This also saved me a lot of time from configuring different applications again.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 17 Feb 2017 00:00:00 -0500</pubDate>
+        <pubDate>Fri, 17 Feb 2017 00:00:00 +0530</pubDate>
         <link>http://amanwrites.me/2017/02/17/Preserve-files-previous-distro-fedora.html</link>
         <guid isPermaLink="true">http://amanwrites.me/2017/02/17/Preserve-files-previous-distro-fedora.html</guid>
         
